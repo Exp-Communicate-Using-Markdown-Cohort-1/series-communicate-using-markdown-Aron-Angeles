@@ -17,3 +17,6 @@ The example above shows the different way to present a heading tag
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [ ] Turn on GitHub pages
+- [ ] Outline my porfolio
+- [ ] Introduce myself to the world
